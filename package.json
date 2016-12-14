@@ -1,6 +1,6 @@
 {
   "name": "less-plugin-to-crlf",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Lessc plugin that converts LESS output in CRLF line endings.",
   "main": "lib/index.js",
   "scripts": {
